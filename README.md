@@ -63,9 +63,13 @@ module exp4fulladder(a,b,cin,sum,carry);
  endmodule
 
 **RTL Schematic**
+
 FULL ADDER
+
 ![WhatsApp Image 2024-12-01 at 10 19 57 PM](https://github.com/user-attachments/assets/f58f8597-b2c6-4299-86e9-be119a3dd370)
+
 FULL SUBTRACTOR
+
 ![WhatsApp Image 2024-12-01 at 10 19 57 PM (1)](https://github.com/user-attachments/assets/a6baf4ea-6c69-4559-a31e-fbe8682ddcd1)
 
 
